@@ -1,6 +1,13 @@
 package fibonacci1;
 
 public class Fibonacci {
+	/**
+	 * Return nth term in the Fibonacci sequence.
+	 * 
+	 * @author tonytran21
+	 * @param n n is ordinal number in fibonacci sequence
+	 * @return nth term in Fibonacci sequence
+	 */
 	static int fib(int a) {
 		if (a == 0 || a == 1) {
 			return 0;
