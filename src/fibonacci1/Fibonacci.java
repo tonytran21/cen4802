@@ -4,7 +4,7 @@ public class Fibonacci {
 	/**
 	 * Return nth term in the Fibonacci sequence.
 	 * 
-	 * @author ingodwetrust
+	 * @author tonytran21
 	 * @param n n is ordinal number in fibonacci sequence
 	 * @return nth term in Fibonacci sequence
 	 */
